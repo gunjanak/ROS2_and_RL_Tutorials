@@ -667,7 +667,7 @@ In the next tutorial, we'll explore:
 
 - [Full blog post](https://janak-lal.com.np/the-heartbeat-of-robotics-understanding-ros2s-publisher-subscriber-system/)
 - [ROS2 Documentation](https://docs.ros.org/en/humble/)
-- [GitHub Repository](#) *(Add your repo link)*
+- [GitHub Repository](https://github.com/gunjanak/ROS2_and_RL_Tutorials)
 
 ---
 
