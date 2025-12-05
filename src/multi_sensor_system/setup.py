@@ -24,8 +24,14 @@ setup(
             'pytest',
         ],
     },
+    
     entry_points={
-        'console_scripts': [
-        ],
+    'console_scripts': [
+        'temperature_sensor = multi_sensor_system.temperature_sensor:main',
+        'humidity_sensor = multi_sensor_system.humidity_sensor:main',
+        'pressure_sensor = multi_sensor_system.pressure_sensor:main',
+        'dashboard_monitor = multi_sensor_system.dashboard_monitor:main',
+    ],
     },
+
 )
